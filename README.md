@@ -2,7 +2,7 @@
 ## BioConciencia
 Entorno limpio
 <br>
-Participantes <br>
-Harold Duque<br>
-Eduardo Carrillo<br>
-Natalia Borbon<br>
+##Participantes
+*Harold Duque
+*Eduardo Carrillo
+*Natalia Borbon
